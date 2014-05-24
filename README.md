@@ -6,6 +6,7 @@ Steps
 3. Run 'autoconf' to create configure script.
 4. Run 'automake --add-missing' to create Makefile.in files.
 5. Run './configure' to create Makefile files.
+6. Run 'make' to compile and create executable.
 
 References
 ----------
